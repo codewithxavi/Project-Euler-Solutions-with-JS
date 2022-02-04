@@ -9,5 +9,5 @@ function multiplesOf3and5(number) {
   }
   return total
 }
-multiplesOf3and5(10)
+multiplesOf3and5(999)
 
